@@ -1,0 +1,61 @@
+html,
+body,
+header,
+.view{
+  height: 100%;
+  background-color: #05220e;
+    margin-bottom: 20px;
+}
+.portfolio-thumbnail {
+   
+    margin-left: 20%
+    margin-right: 20%;
+    
+}
+.portfolio-thumbnail img {
+    width: 90%;
+    border: 3px solid white;
+    
+}
+.jumbotron{
+    font-family: sans-serif;
+    
+    background-color:transparent;
+    text-decoration-color: black;
+}
+.headshot{
+   
+    border: 3px solid white;
+    
+}
+.headshot img{
+    width: 100%;
+}
+.rect{
+    width: 100%;
+    padding: 5px;
+    background-color: grey;
+    opacity:0.75;
+}
+.row{
+    margin-bottom: 50px;
+}
+.navbar-brand{
+    color:black;
+    font-family:sans-serif;
+}
+.textbox{
+    color:white;
+    font-family:sans-serif;
+}
+.navbar{
+    padding-left: 70%;
+    padding-bottom: 1px;
+    border-bottom: 0px;
+        
+}
+.h6{
+    display: inline-block;
+    color: white;
+    font-family: sans-serif;
+}
